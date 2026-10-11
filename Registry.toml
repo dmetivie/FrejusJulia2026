@@ -1,0 +1,6 @@
+name = "FrejusJulia2026"
+uuid = "e00a907c-9733-47d9-9311-220f49f37073"
+repo = "https://github.com/dmetivie/FrejusJulia2026"
+description = "Pkg creation exercice"
+
+[packages]
